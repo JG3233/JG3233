@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**JG3233/JG3233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking to spruce up my README continually over time, but for now I'd like to share some basic information about my profile!
 
-Here are some ideas to get you started:
+### Language stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG3233&theme=<THEME_NAME>" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some Skills and areas of study 
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
+![](https://img.shields.io/badge/OS-Windows,Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
+![](https://img.shields.io/badge/Learning-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
+![](https://img.shields.io/badge/Learning-Security-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
+![](https://img.shields.io/badge/Learning-Computer_Architecture-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
