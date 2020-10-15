@@ -1,4 +1,4 @@
-### Welcome! 👋
+## Welcome! 👋
 
 I'm looking to spruce up my README continually over time, but for now I'd like to share some basic information about my profile!
 
