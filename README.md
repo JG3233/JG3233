@@ -2,10 +2,10 @@
 
 I'm looking to spruce up my README continually over time, but for now I'd like to share some basic information about my profile!
 
-### Stats
+### About my Github
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG3233&theme=radical" />
 
-[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JG3233&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JG3233&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Some Skills and areas of study 
