@@ -14,6 +14,3 @@ I'm looking to spruce up my README continually over time, but for now I'd like t
 ![](https://img.shields.io/badge/Learning-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
 ![](https://img.shields.io/badge/Learning-Security-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
 ![](https://img.shields.io/badge/Learning-Computer_Architecture-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
-
-I'm very interested in security as well, this is me on TryHackMe (although this is static so not up to date)
-<img src="https://tryhackme-badges.s3.amazonaws.com/D0tSl45hWS.png" alt="TryHackMe" />
