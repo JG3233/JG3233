@@ -14,7 +14,6 @@ M.S. Computer Engineering, Washington University in St. Louis
 ### Some Skills and areas of study 
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
-![](https://img.shields.io/badge/OS-Windows,Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
-![](https://img.shields.io/badge/Learning-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
+![](https://img.shields.io/badge/Leveraging-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
 ![](https://img.shields.io/badge/Learning-Security-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
-![](https://img.shields.io/badge/Learning-Computer_Architecture-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=34ff34)
