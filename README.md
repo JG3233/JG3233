@@ -1,6 +1,10 @@
 ## Welcome! 👋
 
-I'm looking to spruce up my README continually over time, but for now I'd like to share some basic information about my profile!
+### About Me
+I am a software and security engineer with and interest in DevOps, automation, AI applications, Blockchain, and more. I've dabbled in many languages but currently lean on Python and Terraform. My blog and programming writeups are available [on my site](https://dotslash.vercel.app/). 
+
+Jacob Gilhaus    
+M.S. Computer Engineering, Washington University in St. Louis 
 
 ### About my Github
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JG3233&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
