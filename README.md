@@ -1,7 +1,7 @@
 ## Welcome! 👋
 
 ### About Me
-I am a software and security engineer with and interest in DevOps, automation, AI applications, Blockchain, and more. I've dabbled in many languages but currently lean on Python and Terraform. My blog and programming writeups are available [on my site](https://dotslash.vercel.app/). 
+I am a software and security engineer with an interest in DevOps, automation, AI applications, Blockchain, and more. I've dabbled in many languages but currently lean on Python and Terraform. My blog and programming writeups are available [on my site](https://dotslash.vercel.app/). 
 
 Jacob Gilhaus    
 M.S. Computer Engineering, Washington University in St. Louis 
